@@ -6,6 +6,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarianosf&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+## Soft Skills and Tools
+    
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,7 +27,9 @@
     <img align="center" alt="Gabriel-webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 </div>
   
-##  
+
+    
+## Contact
 
 <div align="center"> 
     <a href="https://www.linkedin.com/in/gabrielmarianosf/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
